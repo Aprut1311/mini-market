@@ -129,7 +129,7 @@
 <body>
 
 <header>
-    <img src="image/jayusman.png" alt="Jayusman Store Logo">
+    <img src="image/jayusman.png" alt="">
     <h1>Welcome to Jayusman Store</h1>
     <p>Your gateway to the best online shopping experience.</p>
     <div class="button-container">
